@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayoub BOUJANNA</h1>
 <h3 align="center">A passionate Python Developer & Data Enginner from Morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoubboujanna&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubboujanna" /> </p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
